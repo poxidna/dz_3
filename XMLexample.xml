@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<studentinfo>
+	<studentname>
+		<firstname>Jone</firstname>
+		<lastname>Doe</lastname>
+	</studentname>
+	<dateofbirth>13.09.89</dateofbirth>
+	<address>
+		<city>Kyiv</city>
+		<street>Antonova</street>
+		<buildnumber>40A</buildnumber>
+		<postalcode>13568</postalcode>
+	</address>
+	<faculty>math</faculty>
+	<department>4</department>
+	<tuition>true</tuition>
+	<dormitoryneed>false</dormitoryneed>
+</studentinfo>
+<hobbies>
+  <hobby>cooking</hobby>
+  <hobby>walking</hobby>
+  <hobby>swimming</hobby>
+</hobbies>
+<pet>null</pet>

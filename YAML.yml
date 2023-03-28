@@ -1,0 +1,38 @@
+student:
+ studentinfo:
+    studentname: 
+        firstname:Jone
+        lastname:Doe
+    dateofbirth_on: "1989-09-13"
+    address: 
+	  city:Kyiv
+	  street:Antonova
+	  buildnumber:40A		
+	  postalcode:13568
+   faculty:math
+   department:4
+   tuition:true
+   dormitoryneed:false         
+ hobby:[cooking, walking, swimming]
+ pet:null
+
+student:
+ studentinfo:
+    studentname: 
+        firstname:Jone
+        lastname:Doe
+    dateofbirth_on: "1989-09-13"
+    address: 
+	  city:Kyiv
+	  street:Antonova
+	  buildnumber:40A		
+	  postalcode:13568
+   faculty:math
+   department:4
+   tuition:true
+   dormitoryneed:false         
+ hobby:
+   - "cooking" 
+   - "walking"
+   - "swimming"
+ pet:null
